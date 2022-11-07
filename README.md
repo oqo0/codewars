@@ -13,9 +13,7 @@
 
 # Codewars solutions
 
-<p align="center">
-  <a><img alt="Badge" src="https://www.codewars.com/users/oqpin/badges/large?logo=true"></a>
-</p>
+<a><img alt="Badge" src="https://www.codewars.com/users/oqpin/badges/large?logo=true"></a>
 
 Codewars solutions that were created by me.
 Using these solutions are not recommended until you solve the Kata by yourself.

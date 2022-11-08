@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" height="20%" src="assets/codewars-logo.png" href="https://github.com/oqo0/codewars">
+  <img width="15%" height="15%" src="assets/codewars-logo.png" href="https://github.com/oqo0/codewars">
   <br>
 </p>
 <p align="center">
@@ -13,7 +13,10 @@
 
 # Codewars solutions
 
-<a><img alt="Badge" src="https://www.codewars.com/users/oqpin/badges/large?logo=true"></a>
+<img alt="Badge" src="https://www.codewars.com/users/oqpin/badges/large?logo=true">
 
 Codewars solutions that were created by me.
 Using these solutions are not recommended until you solve the Kata by yourself.
+Don't sumbit these solutions as your own.
+
+> Contributions are not accepted.

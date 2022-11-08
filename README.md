@@ -15,8 +15,8 @@
 
 <img alt="Badge" src="https://www.codewars.com/users/oqpin/badges/large?logo=true">
 
-Codewars solutions that were created by me.
-Using these solutions are not recommended until you solve the Kata by yourself.
-Don't sumbit these solutions as your own.
+Codewars solutions that were created by me.  
+Using these solutions are not recommended until you solve the Kata by yourself.  
+Don't sumbit these solutions as your own.  
 
 > Contributions are not accepted.

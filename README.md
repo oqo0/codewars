@@ -13,7 +13,7 @@
 
 # Codewars solutions
 
-<img alt="Badge" src="https://www.codewars.com/users/oqpin/badges/large?logo=true">
+<img alt="Badge" src="https://www.codewars.com/users/oqo0/badges/large?logo=true">
 
 Codewars solutions that were created by me.  
 Using these solutions are not recommended until you solve the Kata by yourself.  

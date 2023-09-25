@@ -1,0 +1,15 @@
+/home/oqo0/Develop/codewars/Testing/bin/Debug/net6.0/Testing
+/home/oqo0/Develop/codewars/Testing/bin/Debug/net6.0/Testing.deps.json
+/home/oqo0/Develop/codewars/Testing/bin/Debug/net6.0/Testing.runtimeconfig.json
+/home/oqo0/Develop/codewars/Testing/bin/Debug/net6.0/Testing.dll
+/home/oqo0/Develop/codewars/Testing/bin/Debug/net6.0/ref/Testing.dll
+/home/oqo0/Develop/codewars/Testing/bin/Debug/net6.0/Testing.pdb
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.csproj.AssemblyReference.cache
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.AssemblyInfoInputs.cache
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.AssemblyInfo.cs
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.csproj.CoreCompileInputs.cache
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.dll
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/ref/Testing.dll
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.pdb
+/home/oqo0/Develop/codewars/Testing/obj/Debug/net6.0/Testing.genruntimeconfig.cache
